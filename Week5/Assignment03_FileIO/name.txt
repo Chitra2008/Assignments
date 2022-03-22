@@ -1,0 +1,17 @@
+
+3)FileIO
+Activity 1:
+Create a application to accept personal details firstName, lastName of a person.
+Store these details in a file such that new person entry comes on new line.
+For every new line firstname and lastname are separated by :
+Activity 2:
+Create application to read the personal details from the file.
+using STring methods get the firstName and last name such that you create person object for each
+new line.
+Add this person object into an array and display all person data of this array.
+
+* Override toString(),equals(),hashCode() (firstName as well as lastName)
+
+
+
+ByteStream inputstream/output and Char Stream Reader/Writers
