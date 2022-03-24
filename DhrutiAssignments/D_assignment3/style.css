@@ -1,0 +1,119 @@
+body {
+    background-image: url("back1.jpg");
+    background-repeat: no-repeat;
+   }
+
+   #headline{
+       text-align: center;
+       text-shadow: 2cm;
+       font-weight: bold;
+       color: black;
+       font-family: 'Times New Roman', Times, serif;
+   }
+
+   .containers{
+    text-align: center;
+  }
+
+.container-fluid{
+    font-weight: bold;
+}
+
+
+input {
+    background-color: rgba(0,0,0,0.8);
+    color: #FFF;
+    border: none;
+    }
+
+    input[type="text"] {
+        display: block;
+        margin : 0 auto;
+        }
+
+   input[type="email"] {
+    display: block;
+    margin-left: 515px;
+    }
+
+    input[type="number"] {
+        display: block;
+        margin-left: 515px;
+        }
+        
+    .mr-sm-2{
+        margin-left: 515px;
+        text-shadow: 2cm;
+        font-weight: bold;
+        color: black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    #ename{
+        font-weight: bold;
+
+    }
+
+    .jini{
+        margin-left: 515px;
+        text-shadow: 2cm;
+        font-weight: bold;
+        color: black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .dob{
+        margin-left: 515px;
+        text-shadow: 2cm;
+        font-weight: bold;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .dropdown{
+        margin-left: 515px;
+        text-shadow: 2cm;
+        font-weight: bold;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+#ename
+{
+    width: 500px; height: auto
+}
+
+#email
+{
+    width: 500px; height: auto
+}
+
+#phone
+{
+    width: 500px; height: auto
+}
+
+#exampleFormControlTextarea2{
+    width: 500px; height: auto
+}
+
+.btn{
+    margin-left: 650px;
+
+}
+
+#btn{
+    text-align: center;
+    height: 40;
+    width: 90;
+    text-decoration:double ;
+}
+
+#headline2{
+    margin: 10px;
+    text-align: center;
+    text-shadow: 2cm;
+    font-weight: bold;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+

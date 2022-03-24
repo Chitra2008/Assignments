@@ -1,0 +1,49 @@
+create customer, product and purchase
+primary key in all three tables
+Foreign key in purchase tables
+
+customer table 
+customer id - PK(seq)
+customer number - NOT NULL
+customer name - NOT NULL
+contact number
+customer dob
+address
+
+product table
+product id - PK(seq)
+product number - NOT NULL
+product name - NOT NULL
+product description
+product price
+
+purchase table
+purchase id - PK(seq)
+purchase number
+customer id - FK
+product id - FK
+
+Insert sample Data in all the tables
+
+Select distinct customers from the table
+
+List the customer with the product which they bought
+customer name - product name
+
+List the customers with the total Amount which they have to pay at billing counter(sort the data in Ascending order of Billing Amount)
+
+List the customers whose age is more than 18 years.
+
+List the customers who has not bought any product from the store.
+
+Find the customers whose billing amount is between 2000 to 5000.
+
+List the products which are not purchased by anyone.
+
+List the products, increased their price by 25% 
+
+find those products whose name start with 'A' and six characters in length.
+
+find those customers whose name ends with 'I' and third character must be 'R'. 
+
+Perform join on 3 tables and display all the columns
